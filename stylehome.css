@@ -4,7 +4,7 @@ body {
 }
 
 .navbar {
-    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.7), transparent), url('backgroundnav.webp');
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.7), transparent), url('img/backgroundnav.webp');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
